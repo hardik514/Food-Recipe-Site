@@ -16,7 +16,8 @@ A React-based food recipe website where users can search for food types and get 
    ```bash
    git clone https://github.com/hardik514/Food-Recipe-Site
 
-   
+![Food Category Page](https://github.com/user-attachments/assets/76afae27-9187-4345-b812-0659b43062e6)
+![Recipe Page](https://github.com/user-attachments/assets/07108d0e-097a-4fd1-8f09-32f15748d42b) 
 
 # React + Vite
 
